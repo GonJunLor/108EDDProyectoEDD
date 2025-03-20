@@ -22,7 +22,7 @@
     --altoIframe:calc(var(--altoArticulo)*2.6);
     --zoomIframe:0.3;
 
-    --imagenFondo: url(/webroot/media/images/Codigo.jpg);
+    --imagenFondo: url(../media/images/codigo.jpg);
 }
 *{
     padding: 0;
